@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 FontLab Free Installer** — FontLab is a professional font editor for creating and editing OpenType, variable, and color fonts. Works without internet access, no account required. Full offline installation.
+**💻 FontLab Free Installer** — FontLab is a professional font design application for macOS and Windows used by leading type foundries worldwide. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About FontLab
 
-FontLab is a professional font editor for creating and editing OpenType, variable, and color fonts. Used by type designers worldwide, it provides advanced drawing tools, metrics editing, OpenType feature coding, and variable font axis design in a comprehensive workflow.
+FontLab is a professional font design application for macOS and Windows used by leading type foundries worldwide. Create, edit, and export fonts in all major formats including OpenType, TrueType, and variable fonts. With advanced drawing tools, metrics editors, and OpenType feature scripting, FontLab is the industry standard for professional type designers producing commercial typefaces.
 
 ---
 
 ## ❌ Problem: FontLab is hard to access
 
-- **High Cost** — Professional pricing targets type foundries and serious designers
-- **Steep Learning Curve** — Type design concepts and font engineering require specialized knowledge
-- **macOS and Windows** — No Linux version available
-- **Niche Audience** — Very specialized tool only relevant to professional type designers
+- **High Cost** — Commercial license is expensive for independent designers
+- **Steep Learning Curve** — Professional tool requires significant time to master
+- **Hardware Demands** — Complex font projects require powerful hardware
+- **macOS/Windows Only** — No Linux version available
 
 ---
 
@@ -121,7 +121,7 @@ FontLab is a professional font editor for creating and editing OpenType, variabl
 
 ---
 
-**FontLab Free Installer** — FontLab is a professional font editor for creating and editing OpenType, variable, and color fonts. Install without internet connection today!
+**FontLab Free Installer** — FontLab is a professional font design application for macOS and Windows used by leading type foundries worldwide. Install without internet connection today!
 
 <div align="center">
 
